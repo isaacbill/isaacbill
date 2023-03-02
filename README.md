@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @isaacbill
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning java springboot
-- 📫 reach me @isaacbill247@gmail.com
+- 👀 I’m a software developer
+- 🌱 I’m a java springboot developer
+- conversant in Java,Python,NodeJS,PHP and Android programming
+- 📫 reach me @isaacbill247@gmail.com or 0743207565
 
 <!---
 isaacbill/isaacbill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
