@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @isaacokeyo
-- 👀 I’m a software developer
-- 🌱 I’m a java springboot developer
-- conversant in Java,Python,NodeJS,PHP and Android programming
+- 👀 I’m a Backend software developer
+- 🌱 I’m a Java springboot developer
+- Proficient in Java Spring/Boot,Python,NodeJS,React.JS,PHP-Laravel
+- Web Services: RESTful APIs, SOAP
 - 📫 reach me @isaacbill247@gmail.com or 0743207565
 
 <!---
