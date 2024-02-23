@@ -1,22 +1,21 @@
-- 👋 Hi, I’m @isaacokeyo, a Backend software developer with expertise in Java SpringBoot, Python-Django, Node.js, React.js, and PHP-Laravel.
+## Hello, I'm Isaac Okeyo! 👋
 
-👀 I specialize in developing robust backend solutions and have experience working with various technologies and frameworks.
+### About Me ℹ️
+- 👀 I’m a Backend Software Developer.
+- 🌱 Currently, I'm focusing on Java Spring Boot development.
+- 💼 Proficient in: 
+  - Java Spring Boot
+  - Python Django
+  - Node.js
+  - React.js
+  - PHP Laravel
+- 💻 Experienced in building RESTful APIs and SOAP web services.
 
-🌱 I'm passionate about building scalable and efficient applications using Java SpringBoot, and I'm always eager to learn and explore new technologies.
+### How to Reach Me 📫
+- Email: isaacokeyo007@gmail.com
+- Phone: 0743207565
 
-### Skills and Expertise:
-- Java SpringBoot
-- Python-Django
-- Node.js
-- React.js
-- PHP-Laravel
-- Web Services: RESTful APIs, SOAP
-
-### Contact Me:
-- 📧 Email:isaacokeyo007@gmail.com
-- 📞 Phone: 0743207565
-
-Feel free to reach out to discuss collaborations, projects, or anything related to software development!
+Feel free to reach out to me if you have any inquiries, collaboration opportunities, or just want to connect!
 
 <!---
 isaacokeyo/isaacokeyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
