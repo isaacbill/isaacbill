@@ -1,8 +1,11 @@
 ## Hello, I'm Isaac Okeyo! 👋
 
-### About Me ℹ️
-- 👀 I’m a Backend Software Developer.
+### About Me
+- 👨‍💻 I'm a Backend Software Developer
+- 👀 I'm passionate about building scalable and robust applications.
 - 🌱 Currently, I'm focusing on Java Spring Boot development.
+- 💡 I enjoy learning new technologies and exploring different aspects of software development.
+ ### Skills & Technologies
 - 💼 Proficient in: 
   - Java Spring Boot
   - Python Django
@@ -11,11 +14,14 @@
   - PHP Laravel
 - 💻 Experienced in building RESTful APIs and SOAP web services.
 
-### How to Reach Me 📫
-- Email: isaacokeyo007@gmail.com
-- Phone: 0743207565
+### Get in Touch
+- 📧 Email: isaacokeyo007@gmail.com
+- 📱 Phone: +254743207565
 
-Feel free to reach out to me if you have any inquiries, collaboration opportunities, or just want to connect!
+### Let's Connect!
+- LinkedIn: [linkedin.com/in/isaacokeyo](https://www.linkedin.com/in/isaacokeyo/)
+- Twitter: [twitter.com/isaacokeyo](https://twitter.com/isaacokeyo)
+- Website: [isaacokeyo.dev](https://isaacokeyo.dev)
 
 <!---
 isaacokeyo/isaacokeyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
