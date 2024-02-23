@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @isaacokeyo
-- 👀 I’m a Backend software developer
-- 🌱 I’m a Java springboot developer
-- Proficient in Java Spring/Boot,Python,Node.js,React.jS,PHP-Laravel
+- 👋 Hi, I’m @isaacokeyo, a Backend software developer with expertise in Java SpringBoot, Python-Django, Node.js, React.js, and PHP-Laravel.
+
+👀 I specialize in developing robust backend solutions and have experience working with various technologies and frameworks.
+
+🌱 I'm passionate about building scalable and efficient applications using Java SpringBoot, and I'm always eager to learn and explore new technologies.
+
+### Skills and Expertise:
+- Java SpringBoot
+- Python-Django
+- Node.js
+- React.js
+- PHP-Laravel
 - Web Services: RESTful APIs, SOAP
-- 📫 reach me @isaacokeyo007@gmail.com or 0743207565
+
+### Contact Me:
+- 📧 Email:isaacokeyo007@gmail.com
+- 📞 Phone: 0743207565
+
+Feel free to reach out to discuss collaborations, projects, or anything related to software development!
 
 <!---
 isaacokeyo/isaacokeyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
