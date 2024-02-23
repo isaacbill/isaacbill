@@ -19,8 +19,8 @@
 - 📱 Phone: +254743207565
 
 ### Let's Connect!
-- LinkedIn: [linkedin.com/in/isaacokeyo](https://www.linkedin.com/in/isaacokeyo/)
-- Twitter: [twitter.com/isaacokeyo](https://twitter.com/isaacokeyo)
+- LinkedIn: [linkedin.com/in/isaacokeyo](https://www.linkedin.com/in/isaac-okeyo-631a8828b/)
+- Twitter: [twitter.com/isaacokeyo](https://twitter.com/isaacokeyo007)
 - Website: [isaacokeyo.dev](https://isaacokeyo.dev)
 
 <!---
