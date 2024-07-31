@@ -21,7 +21,6 @@
 ### Let's Connect!
 - LinkedIn: [linkedin.com/in/isaac-okeyo-631a8828b](https://www.linkedin.com/in/isaac-okeyo-631a8828b/)
 - Twitter: [twitter.com/@IsaacOkeyo_007](https://twitter.com/@IsaacOkeyo_007)
-- Website: [isaacokeyo.dev](https://isaacokeyo.dev)
 
 <!---
 isaacokeyo/isaacokeyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
