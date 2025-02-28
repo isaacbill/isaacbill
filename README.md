@@ -3,7 +3,7 @@
 ### About Me
 - 👨‍💻 I'm a Backend Software Developer
 - 👀 I'm passionate about building scalable and robust applications.
-- 🌱 Currently, I'm focusing on Java Spring Boot development.
+- 🌱 Currently, I focus on Microservices development.
 - 💡 I enjoy learning new technologies and exploring different aspects of software development.
  ### Skills & Technologies
 - 💼 Proficient in: 
