@@ -12,7 +12,10 @@
   - Node.js
   - React.js
   - PHP Laravel
-- 💻 Experienced in building RESTful APIs and SOAP web services.
+  - Docker & Kubernetes  
+  - CI/CD & DevOps practices
+- 💻 Experience in building RESTful APIs and SOAP web services.  
+- 🛠️ Familiar with containerization, orchestration, and automated deployments
 
 ### Get in Touch
 - 📧 Email: isaacokeyo007@gmail.com
