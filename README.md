@@ -10,6 +10,10 @@
   <a href="https://twitter.com/IsaacOkeyo_007"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isaacbill&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -24,6 +28,7 @@
 ### 🧰 Tech Stack & Tools
 
 #### 🔹 Languages & Frameworks
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,16 +37,43 @@
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
 
 #### 🔹 DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-E34F26?style=flat&logo=gitlab&logoColor=white)
 
 #### 🔹 APIs & Architecture
+
 - ✅ RESTful API Design
 - 🔁 SOAP Web Services
 - 🧱 Microservices with Spring Cloud & Docker
 - 📦 Containerization, orchestration, and automated deployments
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacbill&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbill&layout=compact&theme=default" height="165" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isaacbill&theme=flat&no-frame=true&column=6" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/isaacbill/isaacbill/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -53,12 +85,6 @@
 - 🐦 [Twitter](https://twitter.com/IsaacOkeyo_007)
 
 ---
-### 📊 GitHub Stats
 
-![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacbill&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbill&layout=compact&theme=default)
+> 💡 *"No one cared who I was until I put on the mask."* — Bane
 
----
-
-
-> 💡 *"No one cared who i was Until up on the MASK"* — Bane
