@@ -55,8 +55,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacbill&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbill&layout=compact&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacbill&show_icons=true&theme=default&hide=prs&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbill&layout=compact&theme=default&langs_count=6" height="165" />
 </p>
 
 ---
@@ -67,15 +67,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=isaacbill&theme=flat&no-frame=true&column=6" />
 </p>
 
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/isaacbill/isaacbill/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
