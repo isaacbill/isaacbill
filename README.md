@@ -53,5 +53,12 @@
 - 🐦 [Twitter](https://twitter.com/IsaacOkeyo_007)
 
 ---
+### 📊 GitHub Stats
 
-> 💡 *"Strive not to be a success, but rather to be of value."* — Albert Einstein
+![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacbill&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbill&layout=compact&theme=default)
+
+---
+
+
+> 💡 *"No one cared who i was Until up on the MASK"* — Bane
