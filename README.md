@@ -1,31 +1,57 @@
-## Hello, I'm Isaac Okeyo! 👋
+<h1 align="center">Hi there, I'm Isaac Okeyo 👋</h1>
 
-### About Me
-- 👨‍💻 I'm a Backend Software Developer
-- 👀 I'm passionate about building scalable and robust applications.
-- 🌱 Currently, I focus on Microservices development.
-- 💡 I enjoy learning new technologies and exploring different aspects of software development.
- ### Skills & Technologies
-- 💼 Proficient in: 
-  - Java Spring Boot
-  - Python Django
-  - Node.js
-  - React.js
-  - PHP Laravel
-  - Docker & Kubernetes  
-  - CI/CD & DevOps practices
-- 💻 Experience in building RESTful APIs and SOAP web services.  
-- 🛠️ Familiar with containerization, orchestration, and automated deployments
+<p align="center">
+  👨‍💻 Backend Developer | 🚀 Microservices Enthusiast | 🧠 Lifelong Learner  
+</p>
 
-### Get in Touch
-- 📧 Email: isaacokeyo007@gmail.com
-- 📱 Phone: +254743207565
+<p align="center">
+  <a href="mailto:isaacokeyo007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/isaac-okeyo-631a8828b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/IsaacOkeyo_007"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
-### Let's Connect!
-- LinkedIn: [linkedin.com/in/isaac-okeyo-631a8828b](https://www.linkedin.com/in/isaac-okeyo-631a8828b/)
-- Twitter: [twitter.com/@IsaacOkeyo_007](https://twitter.com/@IsaacOkeyo_007)
+---
 
-<!---
-isaacokeyo/isaacokeyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧑‍💻 About Me
+
+- 🧩 Passionate about **building scalable, maintainable backend systems**
+- 🔍 Currently exploring **Microservices, DevOps**, and **distributed architecture**
+- 🛠️ Advocate of **clean code**, performance optimization, and **automation**
+- 📚 Lifelong learner focused on **deep backend technologies**
+
+---
+
+### 🧰 Tech Stack & Tools
+
+#### 🔹 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
+
+#### 🔹 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-E34F26?style=flat&logo=gitlab&logoColor=white)
+
+#### 🔹 APIs & Architecture
+- ✅ RESTful API Design
+- 🔁 SOAP Web Services
+- 🧱 Microservices with Spring Cloud & Docker
+- 📦 Containerization, orchestration, and automated deployments
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [isaacokeyo007@gmail.com](mailto:isaacokeyo007@gmail.com)
+- 📱 Phone: +254 743 207565
+- 💼 [LinkedIn](https://linkedin.com/in/isaac-okeyo-631a8828b)
+- 🐦 [Twitter](https://twitter.com/IsaacOkeyo_007)
+
+---
+
+> 💡 *"Strive not to be a success, but rather to be of value."* — Albert Einstein
