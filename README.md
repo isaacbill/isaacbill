@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Isaac Okeyo 👋</h1>
 
 <p align="center">
-  👨‍💻 Backend Developer | 🚀 Microservices Enthusiast | 🧠 Lifelong Learner  
+  👨‍💻 Backend Engineer | 🚀 Microservices & DevOps Enthusiast | 🧠 Lifelong Learner
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ### 🧑‍💻 About Me
 
 - 🧩 Passionate about **building scalable, maintainable backend systems**
-- 🔍 Currently exploring **Microservices, DevOps**, and **distributed architecture**
+- 🔍 Exploring **Microservices, DevOps**, and **distributed architecture**
 - 🛠️ Advocate of **clean code**, performance optimization, and **automation**
 - 📚 Lifelong learner focused on **deep backend technologies**
 
@@ -34,7 +34,6 @@
 ### 🧰 Tech Stack & Tools
 
 #### 🔹 Languages & Frameworks
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,7 +42,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### 🔹 DevOps & Tools
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -58,11 +56,27 @@
 
 ---
 
+### 📝 Articles & Talks
+
+- [📘 Designing RESTful APIs with Spring Boot](https://dev.to/aviyel/designing-restful-apis-using-spring-boot-37n1)
+- [🐳 10 Docker Tips for Better Containerization](https://medium.com/better-programming/10-docker-tips-to-improve-your-containerization-experience-35636733c6d6)
+- [📺 Microservices Architecture Explained](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isaacbill&show_icons=true&theme=dark&hide=prs&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbill&layout=compact&theme=dark&langs_count=6" height="165" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacbill&theme=dark" />
 </p>
 
 ---
@@ -85,3 +99,10 @@
 ---
 
 > 💡 *"No one cared who I was until I put on the mask."* — Bane
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/code--quality-A%2B-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Freelance-Available-green?style=for-the-badge"/>
+</p>
