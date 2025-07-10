@@ -55,17 +55,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**SpringBank**](https://github.com/isaacbill/springbank) | Modular microservice-based banking backend system | Spring Boot, Kafka, MySQL, Docker |
-| [**DevOps Pipeline**](https://github.com/isaacbill/devops-pipeline) | CI/CD pipeline with GitHub Actions + Kubernetes | GitHub Actions, Helm, EKS |
-| [**JWT Auth System**](https://github.com/isaacbill/jwt-auth-api) | Role-based auth with refresh tokens | Spring Security, PostgreSQL |
-| [**URL Shortener**](https://github.com/isaacbill/url-shortener) | URL shortening service with analytics | Django, Redis, Docker |
-
----
-
 ## 📝 Articles & Talks
 
 - [📘 Designing RESTful APIs with Spring Boot](https://dev.to/aviyel/designing-restful-apis-using-spring-boot-37n1)
