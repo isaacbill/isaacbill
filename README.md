@@ -27,79 +27,53 @@
 
 ## 👨‍🚀 About Me
 
-- 🔭 Currently building [robust backend systems](https://github.com/isaacbill) and scalable **cloud-native services**
-- 🌱 Deep diving into [Kubernetes internals](https://kubernetes.io/docs/concepts/) and advanced [system design patterns](https://refactoring.guru/design-patterns)
-- 🎯 Passionate about **clean architecture**, [CI/CD pipelines](https://about.gitlab.com/topics/ci-cd/), and **fault-tolerant APIs**
-- 🤝 Open to [collaborations](mailto:isaacokeyo007@gmail.com), [tech writing](https://dev.to/isaacokeyo), and **freelance backend/DevOps gigs**
+- 🔭 Currently building robust backend systems and scalable cloud-native services  
+- 🌱 Learning deeper Kubernetes internals and system design patterns  
+- 🎯 Passionate about clean architecture, CI/CD pipelines, and fault-tolerant APIs  
+- 🤝 Open to **collaborations**, tech writing, and freelance backend/DevOps gigs  
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
 ### 🚀 Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)  
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
+[![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
 ### ☁️ DevOps, Cloud & Infrastructure  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
-![GitLab CI/CD](https://img.shields.io/badge/CI%2FCD-E24329?style=for-the-badge&logo=gitlab&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)  
+[![GitLab CI/CD](https://img.shields.io/badge/CI%2FCD-E24329?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
 
 ### 🔧 API & Architecture
-- ✅ [RESTful API Design](https://restfulapi.net/)
-- 🔁 [SOAP Web Services](https://www.w3schools.com/xml/xml_soap.asp)
-- 🧱 [Microservices with Spring Cloud](https://spring.io/projects/spring-cloud)
-- 📈 [Monitoring with Prometheus & Grafana](https://prometheus.io/docs/introduction/overview/)
+- ✅ RESTful API Design  
+- 🔁 SOAP Web Services  
+- 🧱 Microservices with Spring Cloud  
+- ☁️ Containerization, Orchestration, Monitoring  
 
 ---
 
 ## 📝 Articles & Talks
 
-- [📘 Designing RESTful APIs with Spring Boot](https://dev.to/aviyel/designing-restful-apis-using-spring-boot-37n1)
-- [🐳 10 Docker Tips for Better Containerization](https://medium.com/better-programming/10-docker-tips-to-improve-your-containerization-experience-35636733c6d6)
-- [📺 Microservices Architecture Explained](https://www.youtube.com/watch?v=wgdBVIX9ifA)
-
-📚 More on [Dev.to](https://dev.to/isaacokeyo) and [Medium](https://medium.com/@isaacokeyo007)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacbill&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbill&layout=compact&theme=tokyonight&langs_count=6" height="165" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacbill&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isaacbill&theme=darkhub&no-frame=true&column=6" />
-</p>
+- 📘 [Designing RESTful APIs with Spring Boot](https://dev.to/aviyel/designing-restful-apis-using-spring-boot-37n1)  
+- 🐳 [10 Docker Tips for Better Containerization](https://medium.com/better-programming/10-docker-tips-to-improve-your-containerization-experience-35636733c6d6)  
+- 📺 [Microservices Architecture Explained (YouTube)](https://www.youtube.com/watch?v=wgdBVIX9ifA)  
+- 📚 More on [Dev.to](https://dev.to/isaacokeyo) and [Medium](https://medium.com/@isaacokeyo007)
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 [isaacokeyo007@gmail.com](mailto:isaacokeyo007@gmail.com)
-- 📞 +254 743 207565
-- 💼 [LinkedIn](https://linkedin.com/in/isaac-okeyo-631a8828b)
-- 🐦 [Twitter](https://twitter.com/IsaacOkeyo_007)
-- 🛠️ [GitHub](https://github.com/isaacbill)
+- 📧 [isaacokeyo007@gmail.com](mailto:isaacokeyo007@gmail.com)  
+- 📞 +254 743 207565  
+- 💼 [LinkedIn](https://linkedin.com/in/isaac-okeyo-631a8828b)  
+- 🐦 [Twitter](https://twitter.com/IsaacOkeyo_007)  
+- 🛠️ [GitHub](https://github.com/isaacbill)  
 
 ---
 
