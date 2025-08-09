@@ -72,14 +72,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacbill&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
