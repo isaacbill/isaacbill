@@ -66,8 +66,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacbill&show_icons=true&theme=dark&hide=prs&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbill&layout=compact&theme=dark&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacbill&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbill&layout=compact&theme=tokyonight&langs_count=6" height="165" />
 </p>
 
 ---
@@ -75,7 +75,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacbill&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacbill&theme=tokyonight" />
 </p>
 
 ---
@@ -83,7 +83,23 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isaacbill&theme=darkhub&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=isaacbill&theme=tokyonight&no-frame=true&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacbill&theme=tokyonight&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isaacbill&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
