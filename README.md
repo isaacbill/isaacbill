@@ -88,14 +88,6 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isaacbill&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 📧 [isaacokeyo007@gmail.com](mailto:isaacokeyo007@gmail.com)
